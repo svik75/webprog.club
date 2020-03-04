@@ -1,14 +1,14 @@
 {
   "name": "gatsby-starter-hyperspace",
-  "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "version": "0.1.0",
+  "description": "Webprog.club by HTML5 UP",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": ""
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Viktor Sivkov",
+    "email": "viktorsivkoff0@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.13.3",
@@ -42,7 +42,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-aerial/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-aerial#readme"
+  "homepage": "https://webprog.club"
 }
